@@ -1,1 +1,3 @@
-# dot_peaclock
+# peaclock dotfiles
+
+My settings for peaclock.
